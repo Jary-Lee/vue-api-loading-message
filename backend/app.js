@@ -16,7 +16,7 @@ const sleep = (ms = 1000) => {
 // 다른 도메인, 포트에 있는 리소스를 요청을 허용하도록 CORS 허용
 app.use(cors());
 app.get("/backend", async (req, res) => {
-  // sleep 실행 3초 후 실행
+  // sleep 실행
   await sleep(8000);
   // json 응답을 전송.
   res.json(info);
