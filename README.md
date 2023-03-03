@@ -26,5 +26,6 @@ yarn serve
 yarn build
 ```
 
-### 동영상
+### 
 
+https://user-images.githubusercontent.com/118714566/222654298-52bab33c-f11b-4469-bbae-6864c27cf77c.mp4
